@@ -11,7 +11,9 @@
 
 ### About the Project
 The Project consists of HTML CSS BOOTSTRAP JS and JQuery it is the front-end of our Web project for the semester the project was made in groups and me and my partner made a very responsive and intuitive Front-end
-###Modules
+
+### Modules
+
 - ##### Login / Sign Up
 This screen will allow new users to sign up to the platform and will allow registered users to login.
 - ##### About doctor
