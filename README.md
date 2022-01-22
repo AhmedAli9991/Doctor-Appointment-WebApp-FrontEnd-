@@ -23,7 +23,10 @@ Will let the person making reservation know that who the doctor is and what is t
 Will let the person make an appointment if he wants to 
 - ##### Delete or reschedule appointment.
 Allows the user to delete an appointment he made or reschedule it some other time.
+- ##### Delete or Add doctors.
+Allows the Adim to delete or add a doctor .
 - ##### contact us or give feedback.
 Allows the user to get the contact details of the company and give feedback regarding the staff.
 
 ### End
+
